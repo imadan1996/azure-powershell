@@ -101,6 +101,10 @@
     "alias": "Route"
   },
   {
+    "alias": "DnsResolver",
+    "module": "DnsResolver"
+  },
+  {
     "regex": "Dns",
     "group": "Network",
     "alias": "DNS"
@@ -718,9 +722,5 @@
   {
     "alias": "Lab Services",
     "module": "LabServices"
-  },
-  {
-    "alias": "DnsResolver",
-    "module": "DnsResolver"
   }
 ]
