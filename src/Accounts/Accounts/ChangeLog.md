@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 2.7.3
 * Fixed the issue that authorization does not work in Dogfood environment
 * Enabled Continue Access Evaluation for MSGraph
 * Improved error message when login is blocked by AAD
