@@ -540,6 +540,10 @@
     "alias": "Database for PostgreSQL"
   },
   {
+    "regex": "Quota",
+    "alias": "Quota"
+  },
+  {
     "module": "SqlVirtualMachine",
     "alias": "Sql VM"
   },
@@ -714,5 +718,9 @@
   {
     "alias": "Lab Services",
     "module": "LabServices"
+  },
+  {
+    "alias": "DnsResolver",
+    "module": "DnsResolver"
   }
 ]
